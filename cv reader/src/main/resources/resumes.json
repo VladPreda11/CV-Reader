@@ -1,0 +1,48 @@
+{
+  "vladpreda@rocketmail.com" : {
+    "firstName" : "Vlad",
+    "lastName" : "Preda",
+    "age" : 23,
+    "email" : "vladpreda@rocketmail.com",
+    "phoneNumber" : "0737926234",
+    "address" : "Bucharest, 061103",
+    "educations" : [ {
+      "institutionName" : "Faculty of Automatic Control & Computer Science",
+      "city" : "Bucharest",
+      "startDate" : 1475269200000,
+      "endDate" : 1625086800000
+    } ],
+    "languages" : [ {
+      "language" : "Romanian"
+    }, {
+      "language" : "English"
+    } ],
+    "projects" : [ {
+      "projectName" : "Too many projects to write here",
+      "startDate" : 1601499600000,
+      "endDate" : 1601499600000,
+      "description" : "Cool description"
+    } ],
+    "skills" : [ {
+      "skill" : "Java"
+    }, {
+      "skill" : "OOP"
+    }, {
+      "skill" : "SQL"
+    } ],
+    "workExperiences" : null
+  },
+  "email@gmail.com" : {
+    "firstName" : "Testname",
+    "lastName" : "Test",
+    "age" : 30,
+    "email" : "email@gmail.com",
+    "phoneNumber" : "078292974",
+    "address" : "Bucahrest",
+    "educations" : null,
+    "languages" : null,
+    "projects" : null,
+    "skills" : null,
+    "workExperiences" : null
+  }
+}
